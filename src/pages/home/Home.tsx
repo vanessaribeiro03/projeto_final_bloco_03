@@ -8,7 +8,7 @@ function Home() {
                         <h2 className="text-5xl font-bold">
                             Seja bem vindo!
                         </h2>
-                        <p className="text-xl">Aqui você encontra Medicamentos e Cosmeéticos!</p>
+                        <p className="text-xl">Aqui você encontra Medicamentos e Cosméticos!</p>
 
                         <div className="flex justify-around gap-4">
                         <div className='rounded text-white py-2 px-4 bg-indigo-800'
